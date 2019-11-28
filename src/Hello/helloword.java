@@ -9,8 +9,5 @@ public class helloword {
         System.out.println("helloword");
     }
 
-    public void test() {
-        int i = 0;
-        i += 10;
-    }
+
 }
